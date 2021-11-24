@@ -1,0 +1,19 @@
+*{
+    box-sizing: border-box;
+}
+body{
+    font-family: 'Courier New', Courier, monospace;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+ 
+}
+
+p{
+    text-align: center;
+    font-size: 0.8rem;
+    cursor: pointer;
+}
+P:hover{
+    color:#16a085;
+}
